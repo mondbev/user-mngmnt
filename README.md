@@ -1,1 +1,1 @@
-_User management console tools for Debian. Run as root on bash>4
+_User management console tools_ for Debian. Run as root on bash>4
